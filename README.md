@@ -1,9 +1,17 @@
 # 📘 Dokumentasi Panduan Penggunaan Sistem LMS e-Academy
 
+
+- **Admin (TC, Tim IT)**
+- **User (Karyawan / Peserta Pelatihan)**
+
+
 ---
 
 ## 🌐 Akses Sistem
 
+- **URL Login:**  
+  https://pgieacademy.com/login
+  
 <p align="left">
   <img src="./docs/images/login-admin-user.png" width="500"/><br/>
   <em>Halaman Login Sistem LMS</em>
@@ -118,6 +126,8 @@
 ---
 
 # 👤 ROLE: USER
+
+- **(cj, ct, cs, sm, am, asm, ot, existing user )**
 
 ## 📝 Registrasi User
 
