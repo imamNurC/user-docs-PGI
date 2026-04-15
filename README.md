@@ -54,9 +54,7 @@ Langkah-langkah:
 ---
 
 ### 📝 Mengisi Konten Kelas
-
-![Detail Kelas](./docs/images/detail-kelas.png)
-
+#### Detail kelas
 #### 📄 Upload Materi
 ![Upload Materi Video](./docs/images/upload-materi-video.png)
 
