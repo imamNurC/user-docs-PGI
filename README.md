@@ -9,7 +9,7 @@ Dokumen ini menjelaskan panduan penggunaan sistem LMS e-Academy untuk dua jenis 
 
 ## 🌐 Akses Sistem
 
-![Halaman Login](./docs/images/login-page.png)
+![Login Admin/User](./docs/images/login-admin-user.png)
 
 - **URL Login:**  
   https://pgieacademy.com/login
@@ -24,7 +24,7 @@ Admin bertanggung jawab dalam pengelolaan sistem LMS, termasuk pembuatan kelas, 
 
 ## 🔐 Login Admin
 
-![Login Admin](./docs/images/admin-login.png)
+![Sukses Login Admin](./docs/images/sukses-login-admin.png)
 
 1. Akses halaman login
 2. Masukkan akun admin yang telah disediakan
@@ -36,9 +36,9 @@ Admin bertanggung jawab dalam pengelolaan sistem LMS, termasuk pembuatan kelas, 
 ## 📚 Manajemen Kelas
 
 ### ➕ Membuat Kelas Baru
+![Buat Kelas Baru](./docs/images/buat-kelas-baru.png)
 
-![Menu Kelas](./docs/images/menu-kelas.png)
-![Form Tambah Kelas](./docs/images/form-tambah-kelas.png)
+![Konten Kelas Admin](./docs/images/konten-kelas-admin.png)
 
 Langkah-langkah:
 1. Masuk ke menu **Kelas**
@@ -58,19 +58,21 @@ Langkah-langkah:
 ![Detail Kelas](./docs/images/detail-kelas.png)
 
 #### 📄 Upload Materi
-![Upload Materi](./docs/images/upload-materi.png)
+![Upload Materi Video](./docs/images/upload-materi-video.png)
+
 
 - Format: PDF, PPT, DOC, dll
 - Digunakan untuk pembelajaran teori
 
 #### 🎥 Upload Video
-![Upload Video](./docs/images/upload-video.png)
+![Upload Materi Video](./docs/images/upload-materi-video.png)
 
 - Video pembelajaran
 - Bisa berupa file upload atau link
 
 #### ❓ Membuat / Upload Kuis
-![Buat Kuis](./docs/images/buat-kuis.png)
+![Upload Kuis](./docs/images/upload-kuis-admin.png)
+
 
 - Kuis dibuat per soal
 - Tipe: pilihan ganda
@@ -83,9 +85,12 @@ Langkah-langkah:
 ## 📊 Monitoring & Progress
 
 ### 👀 Melihat Progress Karyawan
+![Daftar Kelas Admin](./docs/images/daftar-klas-admin.png)  
+![Daftar Kelas Admin 2](./docs/images/daftar-klas-admin2.png)
 
-![Daftar Kelas](./docs/images/daftar-kelas.png)
-![Progress Karyawan](./docs/images/progress-karyawan.png)
+### 👀 Melihat Progress Karyawan
+![Progress Karyawan](./docs/images/progres-karyawan-admin.png)
+
 
 Admin dapat memantau:
 - Daftar peserta kelas
@@ -98,16 +103,18 @@ Admin dapat memantau:
 
 ## 👥 Manajemen Pengguna
 
-![Manajemen User](./docs/images/manajemen-user.png)
+![Kelola Pengguna](./docs/images/kelaola-pengguna-admin.png)  
+![Kelola Pengguna 2](./docs/images/kelaola-pengguna-admin2.png)
 
 ### ➕ Tambah User
-![Tambah User](./docs/images/tambah-user.png)
+![Tambah Pengguna](./docs/images/tambah-pengguna-admin.png)
 
 - Menambahkan user baru
 - Menentukan role & level akses
 
 ### ✏️ Update User
-![Update User](./docs/images/update-user.png)
+![Update Pengguna](./docs/images/update-pengguna-admin.png)
+
 
 - Mengubah data user
 - Mengatur akses kelas
@@ -116,7 +123,7 @@ Admin dapat memantau:
 
 ## 🎓 Approval Sertifikasi
 
-![Approval Sertifikasi](./docs/images/approval-sertifikasi.png)
+![Approval Sertifikasi](./docs/images/approval-sertif.png)
 
 - Admin memvalidasi user yang telah menyelesaikan kelas
 - Jika memenuhi syarat → sertifikat disetujui
@@ -134,13 +141,14 @@ User adalah peserta yang mengikuti pembelajaran di LMS.
 ![Registrasi User](./docs/images/registrasi-user.png)
 
 ### 🆕 User Baru
-![User Baru](./docs/images/user-baru.png)
+![User Baru](./docs/images/user-baru-user.png)
 
 - Belum terdaftar di data absensi
 - Harus registrasi manual
 
 ### 🔁 Existing User
-![Existing User](./docs/images/existing-user.png)
+![User Existing](./docs/images/user-existing-user.png)
+
 
 - Sudah terdaftar di sistem absensi
 - Bisa langsung login
@@ -158,7 +166,8 @@ User adalah peserta yang mengikuti pembelajaran di LMS.
 
 ### 🔗 Update Profile (Existing User)
 
-![Update Profile](./docs/images/update-profile.png)
+![Update NIK](./docs/images/update-nik-user.png)
+
 
 Jika data tidak sesuai:
 https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
@@ -167,7 +176,8 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 
 ## 🔐 Login User
 
-![Login User](./docs/images/login-user.png)
+![Login Existing User](./docs/images/login-existing-user.png)  
+![Login Sukses User](./docs/images/login-sukses-user.png)
 
 - Login menggunakan akun terdaftar
 - Masuk ke dashboard user
@@ -176,7 +186,7 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 
 ## 📚 Akses Kelas
 
-![Dashboard User](./docs/images/dashboard-user.png)
+![Akses Kelas User](./docs/images/akses-kelas-user.png)
 
 - Akses ditentukan oleh **Level User**
 - Hanya kelas sesuai level yang bisa diakses
@@ -188,17 +198,17 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 ![Detail Kelas User](./docs/images/detail-kelas-user.png)
 
 ### 📄 Materi
-![Materi](./docs/images/materi.png)
+![Materi](./docs/images/kelas-materi-user.png)
 
 - Dokumen pembelajaran
 
 ### 🎥 Video
-![Video](./docs/images/video.png)
+![Video](./docs/images/kelas-video-user.png)
 
 - Video penjelasan materi
 
 ### ❓ Kuis
-![Kuis](./docs/images/kuis.png)
+![Kuis](./docs/images/kelas-kuis-user.png)
 
 - Hanya bisa dikerjakan **1 kali**
 - Jangan refresh halaman saat mengerjakan
@@ -209,7 +219,8 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 
 ## 🔁 Review Kuis
 
-![Review Kuis](./docs/images/review-kuis.png)
+![Review Kuis](./docs/images/review-kuis-user.png)
+
 
 - User dapat melihat hasil kuis
 - Digunakan untuk pembelajaran ulang
@@ -218,7 +229,7 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 
 ## 📜 Progress & History
 
-![History](./docs/images/history.png)
+![History](./docs/images/history-user.png)
 
 User dapat melihat:
 - Riwayat pembelajaran
