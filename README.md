@@ -192,9 +192,6 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 ---
 
 ## 📖 Detail Kelas
-
-![Detail Kelas User](./docs/images/detail-kelas-user.png)
-
 ### 📄 Materi
 ![Materi](./docs/images/kelas-materi-user.png)
 
