@@ -4,7 +4,7 @@
 
 ## 🌐 Akses Sistem
 
-![Login Admin/User](./docs/images/login-admin-user.png)
+<img src="./docs/images/login-admin-user.png" width="500"/>
 
 - **URL Login:**  
   https://pgieacademy.com/login
@@ -17,7 +17,7 @@
 
 ## 🔐 Login Admin
 
-![Sukses Login Admin](./docs/images/sukses-login-admin.png)
+<img src="./docs/images/sukses-login-admin.png" width="500"/>
 
 ---
 
@@ -25,48 +25,48 @@
 
 ### ➕ Membuat Kelas Baru
 
-![Buat Kelas Baru](./docs/images/buat-kelas-baru.png)
+<img src="./docs/images/buat-kelas-baru.png" width="500"/>
 
 ---
 
 ### 📝 Mengisi Konten Kelas
 
-![Konten Kelas Admin](./docs/images/konten-kelas-admin.png)
+<img src="./docs/images/konten-kelas-admin.png" width="500"/>
 
 #### 📄 Upload Materi & 🎥 Video
-![Upload Materi Video](./docs/images/upload-materi-video.png)
+<img src="./docs/images/upload-materi-video.png" width="500"/>
 
 #### ❓ Upload / Buat Kuis
-![Upload Kuis](./docs/images/upload-kuis-admin.png)
+<img src="./docs/images/upload-kuis-admin.png" width="500"/>
 
 ---
 
 ## 📊 Monitoring & Progress
 
-![Daftar Kelas Admin](./docs/images/daftar-klas-admin.png)  
-![Daftar Kelas Admin 2](./docs/images/daftar-klas-admin2.png)
+<img src="./docs/images/daftar-klas-admin.png" width="500"/>  
+<img src="./docs/images/daftar-klas-admin2.png" width="500"/>
 
 ### 👀 Progress Karyawan
-![Progress Karyawan](./docs/images/progres-karyawan-admin.png)
+<img src="./docs/images/progres-karyawan-admin.png" width="500"/>
 
 ---
 
 ## 👥 Manajemen Pengguna
 
-![Kelola Pengguna](./docs/images/kelaola-pengguna-admin.png)  
-![Kelola Pengguna 2](./docs/images/kelaola-pengguna-admin2.png)
+<img src="./docs/images/kelaola-pengguna-admin.png" width="500"/>  
+<img src="./docs/images/kelaola-pengguna-admin2.png" width="500"/>
 
 ### ➕ Tambah User
-![Tambah Pengguna](./docs/images/tambah-pengguna-admin.png)
+<img src="./docs/images/tambah-pengguna-admin.png" width="500"/>
 
 ### ✏️ Update User
-![Update Pengguna](./docs/images/update-pengguna-admin.png)
+<img src="./docs/images/update-pengguna-admin.png" width="500"/>
 
 ---
 
 ## 🎓 Approval Sertifikasi
 
-![Approval Sertifikasi](./docs/images/approval-sertif.png)
+<img src="./docs/images/approval-sertif.png" width="500"/>
 
 ---
 
@@ -77,63 +77,63 @@
 ## 📝 Registrasi User
 
 ### 🆕 User Baru
-![User Baru](./docs/images/user-baru-user.png)
+<img src="./docs/images/user-baru-user.png" width="500"/>
 
 ### 🔁 Existing User
-![User Existing](./docs/images/user-existing-user.png)
+<img src="./docs/images/user-existing-user.png" width="500"/>
 
 ---
 
 ### 🆔 Input NIK
 
-![Input NIK](./docs/images/input-nik.png)
+<img src="./docs/images/input-nik.png" width="500"/>
 
 ---
 
 ### 🔗 Update Profile
 
-![Update NIK](./docs/images/update-nik-user.png)
+<img src="./docs/images/update-nik-user.png" width="500"/>
 
 ---
 
 ## 🔐 Login User
 
-![Login Existing User](./docs/images/login-existing-user.png)  
-![Login Sukses User](./docs/images/login-sukses-user.png)
+<img src="./docs/images/login-existing-user.png" width="500"/>  
+<img src="./docs/images/login-sukses-user.png" width="500"/>
 
 ---
 
 ## 📚 Akses Kelas
 
-![Akses Kelas User](./docs/images/akses-kelas-user.png)
+<img src="./docs/images/akses-kelas-user.png" width="500"/>
 
 ---
 
 ## 📖 Detail Kelas
 
 ### 📄 Materi
-![Materi User](./docs/images/kelas-materi-user.png)
+<img src="./docs/images/kelas-materi-user.png" width="500"/>
 
 ### 🎥 Video
-![Video User](./docs/images/kelas-video-user.png)
+<img src="./docs/images/kelas-video-user.png" width="500"/>
 
 ### ❓ Kuis
-![Kuis User](./docs/images/kelas-kuis-user.png)
+<img src="./docs/images/kelas-kuis-user.png" width="500"/>
 
 ---
 
 ## 🔁 Review Kuis
 
-![Review Kuis](./docs/images/review-kuis-user.png)
+<img src="./docs/images/review-kuis-user.png" width="500"/>
 
 ---
 
 ## 📜 Progress & History
 
-![History User](./docs/images/history-user.png)
+<img src="./docs/images/history-user.png" width="500"/>
 
 ---
 
 ## 🎓 Sertifikasi
 
-![Sertifikat User](./docs/images/sertifikat-user.pdf.png)
+<img src="./docs/images/sertifikat-user.pdf.png" width="500"/>
