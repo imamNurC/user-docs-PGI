@@ -4,7 +4,7 @@
 
 ## 🌐 Akses Sistem
 ---
-<img src="./docs/images/login-admin-user.png" width="500"/>
+<img src="./docs/images/login-admin-user.png" width="400"/>
 
 - **URL Login:**  
   https://pgieacademy.com/login
