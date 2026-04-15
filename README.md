@@ -82,7 +82,7 @@ Langkah-langkah:
 
 ## 📊 Monitoring & Progress
 
-### 👀 Melihat Progress Karyawan
+### 👀 Kelas saat ini
 ![Daftar Kelas Admin](./docs/images/daftar-klas-admin.png)  
 ![Daftar Kelas Admin 2](./docs/images/daftar-klas-admin2.png)
 
