@@ -1,15 +1,10 @@
 # 📘 Dokumentasi Panduan Penggunaan Sistem LMS e-Academy
 
-Dokumen ini menjelaskan panduan penggunaan sistem LMS e-Academy untuk dua jenis pengguna utama:
-
-- **Admin (TC, Tim IT)**
-- **User (Karyawan / Peserta Pelatihan)**
-
 ---
 
 ## 🌐 Akses Sistem
 
-![Halaman Login](./docs/images/login-page.png)
+![Login Admin/User](./images/login-admin-user.png)
 
 - **URL Login:**  
   https://pgieacademy.com/login
@@ -18,18 +13,11 @@ Dokumen ini menjelaskan panduan penggunaan sistem LMS e-Academy untuk dua jenis 
 
 # 👨‍💻 ROLE: ADMIN (TC, Tim IT)
 
-Admin bertanggung jawab dalam pengelolaan sistem LMS, termasuk pembuatan kelas, pengelolaan user, serta monitoring progress pembelajaran.
-
 ---
 
 ## 🔐 Login Admin
 
-![Login Admin](./docs/images/admin-login.png)
-
-1. Akses halaman login
-2. Masukkan akun admin yang telah disediakan
-3. Klik **Login**
-4. Jika berhasil, akan masuk ke dashboard admin
+![Sukses Login Admin](./images/sukses-login-admin.png)
 
 ---
 
@@ -37,203 +25,115 @@ Admin bertanggung jawab dalam pengelolaan sistem LMS, termasuk pembuatan kelas, 
 
 ### ➕ Membuat Kelas Baru
 
-![Menu Kelas](./docs/images/menu-kelas.png)
-![Form Tambah Kelas](./docs/images/form-tambah-kelas.png)
-
-Langkah-langkah:
-1. Masuk ke menu **Kelas**
-2. Klik **Tambah Kelas**
-3. Isi informasi:
-   - Nama kelas
-   - Deskripsi
-   - Level user (target peserta)
-4. Klik **Simpan**
-
-> Kelas adalah wadah utama yang berisi seluruh materi pembelajaran.
+![Buat Kelas Baru](./images/buat-kelas-baru.png)
 
 ---
 
 ### 📝 Mengisi Konten Kelas
 
-![Detail Kelas](./docs/images/detail-kelas.png)
+![Konten Kelas Admin](./images/konten-kelas-admin.png)
 
-#### 📄 Upload Materi
-![Upload Materi](./docs/images/upload-materi.png)
+#### 📄 Upload Materi & 🎥 Video
+![Upload Materi Video](./images/upload-materi-video.png)
 
-- Format: PDF, PPT, DOC, dll
-- Digunakan untuk pembelajaran teori
-
-#### 🎥 Upload Video
-![Upload Video](./docs/images/upload-video.png)
-
-- Video pembelajaran
-- Bisa berupa file upload atau link
-
-#### ❓ Membuat / Upload Kuis
-![Buat Kuis](./docs/images/buat-kuis.png)
-
-- Kuis dibuat per soal
-- Tipe: pilihan ganda
-- Digunakan sebagai evaluasi peserta
-
-> Kuis menjadi indikator utama kelulusan peserta.
+#### ❓ Upload / Buat Kuis
+![Upload Kuis](./images/upload-kuis-admin.png)
 
 ---
 
 ## 📊 Monitoring & Progress
 
-### 👀 Melihat Progress Karyawan
+![Daftar Kelas Admin](./images/daftar-klas-admin.png)  
+![Daftar Kelas Admin 2](./images/daftar-klas-admin2.png)
 
-![Daftar Kelas](./docs/images/daftar-kelas.png)
-![Progress Karyawan](./docs/images/progress-karyawan.png)
-
-Admin dapat memantau:
-- Daftar peserta kelas
-- Progress pembelajaran
-- Nilai kuis
-
-> Digunakan untuk memastikan efektivitas pembelajaran.
+### 👀 Progress Karyawan
+![Progress Karyawan](./images/progres-karyawan-admin.png)
 
 ---
 
 ## 👥 Manajemen Pengguna
 
-![Manajemen User](./docs/images/manajemen-user.png)
+![Kelola Pengguna](./images/kelaola-pengguna-admin.png)  
+![Kelola Pengguna 2](./images/kelaola-pengguna-admin2.png)
 
 ### ➕ Tambah User
-![Tambah User](./docs/images/tambah-user.png)
-
-- Menambahkan user baru
-- Menentukan role & level akses
+![Tambah Pengguna](./images/tambah-pengguna-admin.png)
 
 ### ✏️ Update User
-![Update User](./docs/images/update-user.png)
-
-- Mengubah data user
-- Mengatur akses kelas
+![Update Pengguna](./images/update-pengguna-admin.png)
 
 ---
 
 ## 🎓 Approval Sertifikasi
 
-![Approval Sertifikasi](./docs/images/approval-sertifikasi.png)
-
-- Admin memvalidasi user yang telah menyelesaikan kelas
-- Jika memenuhi syarat → sertifikat disetujui
+![Approval Sertifikasi](./images/approval-sertif.png)
 
 ---
 
-# 👤 ROLE: USER (CJ, CT, CS, SM, AM, ASM, OT, Existing User)
-
-User adalah peserta yang mengikuti pembelajaran di LMS.
+# 👤 ROLE: USER
 
 ---
 
 ## 📝 Registrasi User
 
-![Registrasi User](./docs/images/registrasi-user.png)
-
 ### 🆕 User Baru
-![User Baru](./docs/images/user-baru.png)
-
-- Belum terdaftar di data absensi
-- Harus registrasi manual
+![User Baru](./images/user-baru-user.png)
 
 ### 🔁 Existing User
-![Existing User](./docs/images/existing-user.png)
-
-- Sudah terdaftar di sistem absensi
-- Bisa langsung login
+![User Existing](./images/user-existing-user.png)
 
 ---
 
 ### 🆔 Input NIK
 
-![Input NIK](./docs/images/input-nik.png)
-
-- Wajib memasukkan NIK
-- Digunakan untuk validasi data user
+![Input NIK](./images/input-nik.png)
 
 ---
 
-### 🔗 Update Profile (Existing User)
+### 🔗 Update Profile
 
-![Update Profile](./docs/images/update-profile.png)
-
-Jika data tidak sesuai:
-https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
+![Update NIK](./images/update-nik-user.png)
 
 ---
 
 ## 🔐 Login User
 
-![Login User](./docs/images/login-user.png)
-
-- Login menggunakan akun terdaftar
-- Masuk ke dashboard user
+![Login Existing User](./images/login-existing-user.png)  
+![Login Sukses User](./images/login-sukses-user.png)
 
 ---
 
 ## 📚 Akses Kelas
 
-![Dashboard User](./docs/images/dashboard-user.png)
-
-- Akses ditentukan oleh **Level User**
-- Hanya kelas sesuai level yang bisa diakses
+![Akses Kelas User](./images/akses-kelas-user.png)
 
 ---
 
 ## 📖 Detail Kelas
 
-![Detail Kelas User](./docs/images/detail-kelas-user.png)
-
 ### 📄 Materi
-![Materi](./docs/images/materi.png)
-
-- Dokumen pembelajaran
+![Materi User](./images/kelas-materi-user.png)
 
 ### 🎥 Video
-![Video](./docs/images/video.png)
-
-- Video penjelasan materi
+![Video User](./images/kelas-video-user.png)
 
 ### ❓ Kuis
-![Kuis](./docs/images/kuis.png)
-
-- Hanya bisa dikerjakan **1 kali**
-- Jangan refresh halaman saat mengerjakan
-
-> Pastikan jawaban sudah benar sebelum submit.
+![Kuis User](./images/kelas-kuis-user.png)
 
 ---
 
 ## 🔁 Review Kuis
 
-![Review Kuis](./docs/images/review-kuis.png)
-
-- User dapat melihat hasil kuis
-- Digunakan untuk pembelajaran ulang
+![Review Kuis](./images/review-kuis-user.png)
 
 ---
 
 ## 📜 Progress & History
 
-![History](./docs/images/history.png)
-
-User dapat melihat:
-- Riwayat pembelajaran
-- Status kelas
-- Hasil evaluasi
+![History User](./images/history-user.png)
 
 ---
 
 ## 🎓 Sertifikasi
 
-![Request Sertifikasi](./docs/images/request-sertifikasi.png)
-![Pencapaian Sertifikasi](./docs/images/pencapaian-sertifikasi.png)
-
-1. Menyelesaikan kelas & penilaian
-2. Mengajukan request sertifikasi
-3. Admin melakukan approval
-
----
+![Sertifikat User](./images/sertifikat-user.pdf.png)
