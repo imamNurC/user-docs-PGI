@@ -240,8 +240,8 @@ User dapat melihat:
 
 ## 🎓 Sertifikasi
 
-![Request Sertifikasi](./docs/images/request-sertifikasi.png)
-![Pencapaian Sertifikasi](./docs/images/pencapaian-sertifikasi.png)
+![History](./docs/images/history-user.png)
+![Pencapaian Sertifikasi](./docs/images/sertifikat.user.pdf.png)
 
 1. Menyelesaikan kelas & penilaian
 2. Mengajukan request sertifikasi
