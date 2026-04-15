@@ -236,7 +236,7 @@ User dapat melihat:
 ## 🎓 Sertifikasi
 
 ![History](./docs/images/history-user.png)
-![Pencapaian Sertifikasi](./docs/images/sertifikat-user.pdf.png)
+![Pencapaian Sertifikasi](./docs/images/sertifikat-user.png)
 
 1. Menyelesaikan kelas & penilaian
 2. Mengajukan request sertifikasi
