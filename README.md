@@ -70,11 +70,12 @@
 
 ---
 
-# 👤 ROLE: USER
+# 👤 ROLE : USER (cj, ct, cs, sm, am, asm, ot, existing user )
 
 ---
 
-## 📝 Registrasi User
+### 📝 Registrasi User
+<img src="./docs/images/registrasi-user.png" width="500"/>
 
 ### 🆕 User Baru
 <img src="./docs/images/user-baru-user.png" width="500"/>
