@@ -79,6 +79,17 @@ Langkah-langkah:
 > Kuis menjadi indikator utama kelulusan peserta.
 
 ---
+## Rilis sertifikat kelas
+
+![rilis sertifikat](./docs/images/rilis-sertifikat.png)  
+![rilis sertifikat](./docs/images/generate-sertifikat.png)  
+
+di setiap kelas Admin 
+- rilis-sertifikat
+- generate nomor sertifikat, valid date, until date 
+
+
+---
 
 ## 📊 List kelas & Progress
 
