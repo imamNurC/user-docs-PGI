@@ -80,7 +80,7 @@ Langkah-langkah:
 
 ---
 
-## 📊 Monitoring & Progress
+## 📊 List kelas & Progress
 
 ### 👀 Kelas saat ini
 ![Daftar Kelas Admin](./docs/images/daftar-klas-admin.png)  
@@ -153,7 +153,7 @@ User adalah peserta yang mengikuti pembelajaran di LMS.
 
 ---
 
-### 🆔 Input NIK
+### 🆔 Input NIK pengguna baru
 
 ![Input NIK](./docs/images/input-nik.png)
 
@@ -177,7 +177,7 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 ![Login Existing User](./docs/images/login-existing-user.png)  
 ![Login Sukses User](./docs/images/login-sukses-user.png)
 
-- Login menggunakan akun terdaftar
+- Login menggunakan akun terdaftar sistem absen maupun yang baru dibuat 
 - Masuk ke dashboard user
 
 ---
@@ -186,7 +186,7 @@ https://pgi.cfcindonesia.com/index.php?model=home&action=showprofile
 
 ![Akses Kelas User](./docs/images/akses-kelas-user.png)
 
-- Akses ditentukan oleh **Level User**
+- Akses kelas ditentukan berdasarkan **Level User**
 - Hanya kelas sesuai level yang bisa diakses
 
 ---
