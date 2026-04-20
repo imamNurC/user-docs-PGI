@@ -1,5 +1,17 @@
 # 📦 Setup Lokal development & deployment – e-Academy
 
+## ⚙️ Requirements
+
+Pastikan sudah terinstall:
+
+- PHP >= 8.x
+- Composer
+- Node.js & NPM
+- MySQL / MariaDB
+- Git
+
+---
+
 ## 🚀 Instalasi Awal
 
 Jalankan langkah berikut hanya sekali saat pertama setup:
